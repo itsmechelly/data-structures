@@ -1,0 +1,7 @@
+For real demo use this cool links (:
+https://www.cs.usfca.edu/~galles/visualization/BST.html
+https://www.edureka.co/blog/java-binary-tree#binary-tree
+
+- if the new node’s value is lower than the current node’s, go to the left child
+- if the new node’s value is greater than the current node’s, go to the right child
+- when the current node is null, we’ve reached a leaf node, we insert the new node in that position

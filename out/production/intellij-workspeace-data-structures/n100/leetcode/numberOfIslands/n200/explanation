@@ -1,3 +1,0 @@
-dfs space is O(row*col), not great - I used this one
-
-bfs is better, its O(min(row, col))
