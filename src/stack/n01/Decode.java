@@ -1,4 +1,4 @@
-package n06.stack.n01;
+package stack.n01;
 
 import java.util.*;
 

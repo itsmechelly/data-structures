@@ -1,4 +1,4 @@
-package n03.linkedlist.n01;
+package linked_list.n01;
 
 public class MagazineRack {
 

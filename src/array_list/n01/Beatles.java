@@ -1,4 +1,4 @@
-package n02.arraylist.n01;
+package array_list.n01;
 
 import java.util.ArrayList;
 
