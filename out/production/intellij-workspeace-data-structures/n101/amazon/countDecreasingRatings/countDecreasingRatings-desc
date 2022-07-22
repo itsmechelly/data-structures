@@ -1,0 +1,18 @@
+Amazon Shopping recently launched a new item whose daily customer ratings for n days are represented by the array ratings. They monitor these ratings to identify products that are not performing well. Find the number of groups that can be formed consisting of 1 or more consecutive days such that the ratings continuously decrease over the days.
+
+The ratings are consecutively decreasing if it has the form: r,r-1,r-2.. and so on, where r is the rating on the first days of the group being considered. Two groups are considered different if they contain the ratings of different consecutive days.
+
+Example
+ratings = [4, 3, 5, 4, 3]
+
+There are 9 periods in which the rating consecutively decreases.
+
+5 one day periods: [4], [3], [5], [4], [3]
+3 two day periods: [4, 3], [5, 4], [4, 3]
+1 three day period: [5, 4, 3]
+Return 9
+
+---
+
+https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-ii-2/
+https://leetcode.com/discuss/interview-experience/1844741/amazon-sde2-online-assesment/1417651

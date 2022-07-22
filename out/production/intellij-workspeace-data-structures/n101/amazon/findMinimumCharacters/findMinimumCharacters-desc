@@ -1,0 +1,14 @@
+Amazon Shopping provides a product-search feature that makes browsing products easier. Instead of showing exact matches only, it also displays transformable results for better browsing, A word a is said to be transformable to a word b if a is a subsequence of b. Given searchWord and resultWord, find the minimum number of characters that must be appended at the end of searchWord, such that resultWord is a subsequence of the modified searchWord.
+
+Note: A subsequence of a string is a string that results from deleting 0 or more characters from the string without changing the order of the remaining characters. For example, amazon is a subsequence of abcmmdaqzxopn while abc is not a subsequence of cdhbqaab.
+
+Example :
+
+Input :
+searchWord="armaze"
+resultWord = "amazon"
+Output :
+2
+
+---
+

@@ -1,0 +1,16 @@
+There are a large number of orders placed on Amazon Prime Day.
+The orders are packed and are at the warehouse ready to be delivered, The delivery agent needs to deliver them in as few trips as possible.
+
+In a single trip, the delivery agent can choose packages following either of two rules:
+
+* Choose two packages with the same weight.
+* Choose three packages with the same weight.
+
+Determine the minimum number of tripss required to deliver the packages. If it is not possible to deliver all of them, return -1.
+
+Example:
+weights = [2, 4, 6, 6, 4, 2, 4]
+The agent needs a minimum of 3 trips as shown below.
+Return 3 as the answer.
+
+function name: getMinimumTrips

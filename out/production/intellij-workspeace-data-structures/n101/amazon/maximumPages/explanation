@@ -1,0 +1,24 @@
+Solution:
+
+//todo this is I found in leetcode description:
+Time Complexity O(n)
+
+//todo found in google search:
+Popping an element from a stack will take O(1) time complexity.
+Popping the last element in a stack will take O(n).
+
+---
+
+Solution2:
+
+//todo this is I found in leetcode description:
+Time Complexity O(n)
+Space Complexity O(1)
+
+// todo more info:
+Insert at last index O(1)
+Insert at given index O(n)
+Search by value O(n)
+Get by index O(n)
+Remove by value O(n)
+Remove by index O(n)
